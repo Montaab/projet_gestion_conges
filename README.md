@@ -251,4 +251,4 @@ Pour obtenir de l'aide :
 
 ## Contact
 
-Pour toute question ou suggestion, contactez [montaab19@gamil.com].
+Pour toute question ou suggestion, contactez [montaab19@gmail.com].
